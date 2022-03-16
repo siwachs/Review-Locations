@@ -1,9 +1,0 @@
-{
-  "env": {
-    "DB_USER": "username",
-    "DB_PASSWORD": "root",
-    "DB_NAME": "mern",
-    "GOOGLE_GEOCODING_API": "AIzaSyDxy6uoVCpsD9-ch6aFM90dl2TiLIL6uYc",
-    "PRIVATE_KEY_FOR_TOKEN": "PRIVATE_KEY_OF_THE_SERVER_NOT_SHARE"
-  }
-}
